@@ -15,7 +15,7 @@
 ## Emoji!
 - 라벨의 Font를 System - System으로 바꾸면 조정할수 있음.
 
-## Castring emoji fortunes
+## Casting emoji fortunes
 - iPhone 앱 타겟과 공유하고 싶은 코드 파일은 `Target Membership`에서 `WatchKit App Extension` 을 선택해준다.
 
 ## Refreshing the fortune
