@@ -40,3 +40,14 @@
 ## A sequence-style picker
 - list style 과 거의 비슷함. 다만 `WKPickerItem`에서 text 대신 contentImage를 설정해주면 됨.
 - 그래픽 처리 능력이 부족한 워치를 위해, 이미지는 가능한 최적화해줘야 함. 여기서는 배경을 까맣게 칠해서 불필요한 투명도를 없앰.
+
+<BR>
+
+# 추가 정보
+- ### Picker Human Interface Guidelines
+https://developer.apple.com/design/human-interface-guidelines/watchos/interface-elements/pickers/
+
+- ### WKInterfacePicker
+https://developer.apple.com/documentation/watchkit/wkinterfacepicker
+
+<BR>
