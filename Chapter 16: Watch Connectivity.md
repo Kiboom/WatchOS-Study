@@ -25,5 +25,12 @@
     - FIFO 방식으로 데이터를 전송함.
     - 딕셔너리의 형태로 전송함.
 
-  - #### FileTransfer 
-    - 로컬 파일이나 
+  - #### File Transfer 
+    - 로컬 파일이나 옵셔널 딕셔너리를 전달할 수 있음.
+    - User info transfer처럼 백그라운드에서 큐에 저장됨.
+  
+  - ### Application context transfer
+    - User info transfer처럼 딕셔너리를 전달할 수 있음. 
+    - 차이점은 context를 전달하기 때문에 항상 최신 데이터를 전송함.
+    - 딕셔너리에는 Property List에 부합하는 타입만 넣을 수 있음.
+ 
