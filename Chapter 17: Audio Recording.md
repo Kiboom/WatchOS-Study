@@ -17,3 +17,7 @@
 
 ## Background audio playback
 - 백그라운드 재생을 위해서는 Info.plist에서 `Required Background Modes`를 입력해야함.
+
+
+## Recording an audio
+- watchOS 4부터 Unified Process Runtime 덕분에 Watch App과 WatchKit Extension 사이에 단일 샌드박스에 접근할 수 있게 됨.
